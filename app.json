@@ -1,5 +1,5 @@
 {
-    "name": "TrickyAbhi-Music",
+    "name": "somali-Music",
     "logo": "https://telegra.ph/file/eeef5b1d064b8c640f6b3.jpg",
     "description": "TrickyAbhi-Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
@@ -38,7 +38,7 @@
         },
         "OWNER_NAME": {
             "description": "fill YOUR USERNAME WITHOUT '@' .",
-            "value": "ABHIISH3K_xD",
+            "value": "smarter_than_anyone",
             "required": false
         },
         "ALIVE_NAME": {
